@@ -1,1 +1,1 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\project\assets\css\APlayer.min.css"><script src="\project\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>
