@@ -1,0 +1,38 @@
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>
+.categoryBar-list {
+  max-height: 400px;
+}
+
+.clock-row {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/*3s为加载动画的时间，1为加载动画的次数，ease-in-out为动画效果*/
+
+#page-header,
+#web_bg {
+  -webkit-animation: imgblur 2s 1 ease-in-out;
+  animation: imgblur 2s 1 ease-in-out;
+}
+
+body {
+  cursor: url(https://bu.dusays.com/2022/05/17/6283c365d20dd.png), auto;
+}
+
+.hide-block>.hide-button.open,
+.hide-inline>.hide-button.open {
+  display: block
+}
+
+a,
+button,
+img {
+  cursor: url(https://bu.dusays.com/2022/05/17/6283c376afcfc.png), auto
+}
+#toggle-sidebar {
+  bottom: 80px
+}
+#toggle-sidebar {
+  left: 100px
+}
